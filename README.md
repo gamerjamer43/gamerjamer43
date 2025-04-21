@@ -1,4 +1,5 @@
-![download](https://github.com/user-attachments/assets/65c62105-fd71-447d-bfbc-73a7493aa999)
+
+![header](https://github.com/user-attachments/assets/8e88f8e3-7618-4550-ae7a-26904bf260ba)
 
 ![](https://komarev.com/ghpvc/?username=gamerjamer43&color=0f6cf7) [![](https://img.shields.io/badge/main%20language-python-4287f5.svg)](https://shields.io/)
 
