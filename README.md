@@ -1,4 +1,3 @@
-
 ![header](https://github.com/user-attachments/assets/8e88f8e3-7618-4550-ae7a-26904bf260ba)
 
 ![](https://komarev.com/ghpvc/?username=gamerjamer43&color=0f6cf7) [![](https://img.shields.io/badge/main%20language-python-4287f5.svg)](https://shields.io/)
@@ -27,12 +26,13 @@ An educational NumPy-based implementation of a two-layer neural network for MNIS
 
 ## 🛠️ Languages
 
-- Python
+**- Python
 - Java
 - C++
 - JavaScript
-- HTML & CSS (but those don't count lol)
-Working on expanding this to more big boy languages, hopefully Rust and fluency in C in the near future.
+- HTML & CSS (but those don't count lol)**
+
+Working on eventually expanding this to more big boy languages, hopefully Rust and fluency in C in the near future.
 
 ---
 
