@@ -26,11 +26,11 @@ An educational NumPy-based implementation of a two-layer neural network for MNIS
 
 ## 🛠️ Languages
 
-**- Python
-- Java
-- C++
-- JavaScript
-- HTML & CSS (but those don't count lol)**
+**- Python**
+**- Java**
+**- C++**
+**- JavaScript**
+**- HTML & CSS (but those don't count lol)**
 
 Working on eventually expanding this to more big boy languages, hopefully Rust and fluency in C in the near future.
 
