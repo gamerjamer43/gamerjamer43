@@ -26,14 +26,14 @@ An attempt to learn the basics of ML using a NumPy-based implementation of a two
 
 ---
 
-## 🛠️ Languages
+## 🛠️ Languages (In order of pickup)
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"   alt="java"   width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp"    width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js"     width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"         alt="html5"  width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"            alt="css3"   width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"   alt="java"   width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp"    width="30" height="30"/>
 </p>
 
 Working on eventually expanding this to more big boy languages, hopefully Rust and fluency in C in the near future.
@@ -45,7 +45,7 @@ Working on eventually expanding this to more big boy languages, hopefully Rust a
 - **Databases:** Decent knowledge in databasing concepts, using SQLite3 (for raw queries), and SQLAlchemy (for ORM). Built quite a few sites that definitely aren't worthy of being on here, so I've been building decent knowledge of schema design and efficient querying.
 - **Machine Learning Fundamentals:** Messing with NumPy-based neural networks. Take a look at my neural net from scratch, a two-layer neural network entirely in NumPy, dense layers, activation functions, forward/backpropagation, and mini-batch training loops are all handcoded to gain a deeper understanding of low level operations and performance tuning. Planning to create a TinyGPT using a similar approach.
 - **Security & Cryptography:** Built a pretty simple lib for Elliptic Curve Diffie–Hellman key exchange, AES hybrid encryption, digital signatures. Hoping to build a more advanced version of this as it was built in a day.
-- **Learning Mindset:** I started seriously getting into scripting in 2023, and my first project was just a simple login system in Python that stored usernames and passwords to a list. Fast forward two years, I have picked up many different skills that beforehand I had never heard of. My learning mindset allows me to grow into new languages, frameworks, and libraries with relative ease, and pushes me into sculpting myself into a better developer. 
+- **Learning Mindset:** I started seriously getting into scripting in 2023, and my first project was just a simple login system in Python that stored usernames and passwords to a dict, and then a text file. Fast forward two years, I have picked up many different skills that beforehand I had never heard of. My learning mindset allows me to grow into new languages, frameworks, and libraries with relative ease, and pushes me into sculpting myself into a better developer. 
 
 <!--
 ---
