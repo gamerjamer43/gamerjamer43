@@ -1,16 +1,16 @@
-![header](https://github.com/user-attachments/assets/8e88f8e3-7618-4550-ae7a-26904bf260ba)
+![header](https://github.com/user-attachments/assets/efa51fb0-9f7f-4b5a-9f97-fb7835810ce4)
 
 ![](https://komarev.com/ghpvc/?username=gamerjamer43&color=0f6cf7) [![](https://img.shields.io/badge/main%20language-python-4287f5.svg)](https://shields.io/)
 
 ---
+<h2 align="center">🎙️ Introduction</h2>
+Hi there! I’m a Class of '28 CS student based somewhere in NY (i'm not telling you!) I like to build cool things in Python, Java, and C++, and I am continually exploring new languages and technologies. My scripting journey started with scratch and roblox -- which I don't really count because it was mostly toying around to learn the syntax and build basic programs -- but I really got into scripting with Python in 2022. Since then, I have been dead set on wanting to be a Computer Science student and started creating as much code as humanly possible, because the best way to learn is by doing. Feel free to look around my profile, and also take a peep at my repos, there's some cool stuff in there!
 
-Hi there! I’m a Class of '28 CS student based somewhere in NY, scripting cool things in Python, Java, and C++, and continually exploring new languages and technologies. 
-
-Take a look around at my repos! ([github.com](https://github.com/gamerjamer43?tab=repositories))
+([my repositories](https://github.com/gamerjamer43?tab=repositories))
 
 ---
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
 ### [Boron Programming Language](https://github.com/gamerjamer43/Boron)
 A statically typed, precision-first programming language blending Python, Java, and C++ concepts for expressive control flow, rich data types, and seamless integration with python packages. Dive into syntax, data types, OOP, and more! ([github.com](https://github.com/gamerjamer43/Boron))
@@ -26,21 +26,31 @@ An attempt to learn the basics of ML using a NumPy-based implementation of a two
 
 ---
 
-## 🛠️ Languages (In order of pickup)
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js"     width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"         alt="html5"  width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"            alt="css3"   width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"   alt="java"   width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp"    width="30" height="30"/>
+<h2 align="center">🛠️ Languages (In order of pickup)</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/luau-0f0f0f?style=for-the-badge&logo=robloxstudio&logoColor=00A2FF" alt="roblox studio logo"/>
+  <br/>
+  <img src="https://img.shields.io/badge/python-0f0f0f?style=for-the-badge&logo=python" alt="python logo"/>
+  <img src="https://img.shields.io/badge/java-0f0f0f?style=for-the-badge&logo=openjdk" alt="java logo"/>
+  <br/>
+  <img src="https://img.shields.io/badge/html5-0f0f0f?style=for-the-badge&logo=html5" alt="html5 logo"/>
+  <img src="https://img.shields.io/badge/css3-0f0f0f?style=for-the-badge&logo=css&logoColor=663399" alt="css3 logo"/>
+  <img src="https://img.shields.io/badge/javascript-0f0f0f?style=for-the-badge&logo=javascript" alt="javascript logo"/>
+  <br/>
+  <br/>
+  I'm new to:
+  <br/>
+  <br/>
+  <img src="https://img.shields.io/badge/C++-0f0f0f?style=for-the-badge&logo=cplusplus" alt="c++ logo"/>
+  <img src="https://img.shields.io/badge/C-0f0f0f?style=for-the-badge&logo=c" alt="c logo"/>
 </p>
 
 Working on eventually expanding this to more big boy languages, hopefully Rust and fluency in C in the near future.
 
 ---
 
-## 💼 Other Skills
+<h2 align="center">💼 Other Skills</h2>
+
 - **Backend & API Development:** I've built many small Flask applications ranging from small to large (featuring sublibraries such as Flask-Login, Flask-SQLAlchemy, Flask-WTF), also designed and implemented RESTful endpoints in Flask-based services for media and file operations. I also implement robust routing, HTTP method usage, and input sanitization to support and secure both video sharing (TestToob) and image hosting (shareximagehost) workflows.
 - **Databases:** Decent knowledge in databasing concepts, using SQLite3 (for raw queries), and SQLAlchemy (for ORM). Built quite a few sites that definitely aren't worthy of being on here, so I've been building decent knowledge of schema design and efficient querying.
 - **Machine Learning Fundamentals:** Messing with NumPy-based neural networks. Take a look at my neural net from scratch, a two-layer neural network entirely in NumPy, dense layers, activation functions, forward/backpropagation, and mini-batch training loops are all handcoded to gain a deeper understanding of low level operations and performance tuning. Planning to create a TinyGPT using a similar approach.
