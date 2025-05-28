@@ -10,6 +10,12 @@ Hi there! I’m a Class of '28 CS student based somewhere in NY (i'm not telling
 
 ---
 
+<h2 align="center">⭐ Project Spotlight </h2>
+This is to showcase a project I am currently working on or really like! Take a look!
+
+### [MBOX-16](https://github.com/gamerjamer43/mbox-16)
+A lightweight, educational 16-bit CPU emulator & assembler with a clean, custom instruction set, interactive debugger, and scriptable I/O routines. Explore CPU architecture, step through your own assembly programs, and extend the simulator with ease! ([github.com](github.com/gamerjamer43/mbox-16))
+
 <h2 align="center">🚀 Featured Projects</h2>
 
 ### [Boron Programming Language](https://github.com/gamerjamer43/Boron)
