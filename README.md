@@ -4,7 +4,7 @@
 
 ---
 <h2 align="center">🎙️ Introduction</h2>
-Hi there! I’m a Class of '28 CS student based somewhere in NY (i'm not telling you!) I like to build cool things in Python, Java, and C++, and I am continually exploring new languages and technologies. My scripting journey started with scratch and roblox -- which I don't really count because it was mostly toying around to learn the syntax and build basic programs -- but I really got into scripting with Python in 2022. Since then, I have been dead set on wanting to be a Computer Science student and started creating as much code as humanly possible, because the best way to learn is by doing. Feel free to look around my profile, and also take a peep at my repos, there's some cool stuff in there!
+Hi there! I’m a Class of '28 Software Engineering student at the Rochester Institute of Tech. I like to build cool things in Python, Java, and C++, and I am continually exploring new languages and technologies. My scripting journey started with scratch and roblox -- which I don't really count because it was mostly toying around to learn the syntax and build basic programs -- but I really got into scripting with Python in 2022. Since then, I have been dead set on wanting to be in a computer technical field and began creating as many projects as humanly possible, because the best way to learn is by doing. Feel free to look around my profile, and also take a peep at my repos, there's some cool stuff in there!
 
 ([my repositories](https://github.com/gamerjamer43?tab=repositories))
 
