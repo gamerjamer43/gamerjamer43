@@ -33,6 +33,8 @@ An attempt to learn the basics of ML using a NumPy-based implementation of a two
 ---
 
 <h2 align="center">🛠️ Languages (In order of pickup)</h2>
+
+Working on eventually expanding this to more big boy languages, hopefully Rust and fluency in C in the near future.
 <p align="center">
   <img src="https://img.shields.io/badge/luau-0f0f0f?style=for-the-badge&logo=robloxstudio&logoColor=00A2FF" alt="roblox studio logo"/>
   <br/>
@@ -51,8 +53,6 @@ An attempt to learn the basics of ML using a NumPy-based implementation of a two
   <img src="https://img.shields.io/badge/C-0f0f0f?style=for-the-badge&logo=c" alt="c logo"/>
 </p>
 
-Working on eventually expanding this to more big boy languages, hopefully Rust and fluency in C in the near future.
-
 ---
 
 <h2 align="center">💼 Other Skills</h2>
@@ -61,7 +61,7 @@ Working on eventually expanding this to more big boy languages, hopefully Rust a
 - **Databases:** Decent knowledge in databasing concepts, using SQLite3 (for raw queries), and SQLAlchemy (for ORM). Built quite a few sites that definitely aren't worthy of being on here, so I've been building decent knowledge of schema design and efficient querying.
 - **Machine Learning Fundamentals:** Messing with NumPy-based neural networks. Take a look at my neural net from scratch, a two-layer neural network entirely in NumPy, dense layers, activation functions, forward/backpropagation, and mini-batch training loops are all handcoded to gain a deeper understanding of low level operations and performance tuning. Planning to create a TinyGPT using a similar approach.
 - **Security & Cryptography:** Built a pretty simple lib for Elliptic Curve Diffie–Hellman key exchange, AES hybrid encryption, digital signatures. Hoping to build a more advanced version of this as it was built in a day.
-- **Learning Mindset:** I started seriously getting into scripting in 2023, and my first project was just a simple login system in Python that stored usernames and passwords to a dict, and then a text file. Fast forward two years, I have picked up many different skills that beforehand I had never heard of. My learning mindset allows me to grow into new languages, frameworks, and libraries with relative ease, and pushes me into sculpting myself into a better developer. 
+- **Learning Mindset:** I started seriously getting into scripting in 2023, and my first project was just a simple login system in Python that stored usernames and passwords to a dict, and then a text file. Fast forward two years, I have picked up many different skills that beforehand I had never heard of. My learning mindset allows me to grow into new languages, frameworks, and libraries with relative ease, and pushes me into sculpting myself into a better developer.
 
 <!--
 ---
