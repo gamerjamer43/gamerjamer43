@@ -3,20 +3,20 @@
 ![](https://komarev.com/ghpvc/?username=gamerjamer43&color=0f6cf7) [![](https://img.shields.io/badge/main%20language-python-4287f5.svg)](https://shields.io/)
 
 ---
-<h2 align="center">🎙️ Introduction</h2>
+<h2>🎙️ Introduction</h2>
 Hi there! I’m a Class of '28 Software Engineering student at the Rochester Institute of Tech. I like to build cool things in Python, Java, and C++, and I am continually exploring new languages and technologies. My scripting journey started with scratch and roblox -- which I don't really count because it was mostly toying around to learn the syntax and build basic programs -- but I really got into scripting with Python in 2022. Since then, I have been dead set on wanting to be in a computer technical field and began creating as many projects as humanly possible, because the best way to learn is by doing. Feel free to look around my profile, and also take a peep at my repos, there's some cool stuff in there!
 
 ([my repositories](https://github.com/gamerjamer43?tab=repositories))
 
 ---
 
-<h2 align="center">⭐ Project Spotlight </h2>
+<h2>⭐ Project Spotlight </h2>
 This is to showcase a project I am currently working on or really like! Take a look!
 
 ### [MBOX-16](https://github.com/gamerjamer43/mbox-16)
 A lightweight, educational 16-bit CPU emulator & assembler with a clean, custom instruction set, interactive debugger, and scriptable I/O routines. Explore CPU architecture, step through your own assembly programs, and extend the simulator with ease! ([github.com](github.com/gamerjamer43/mbox-16))
 
-<h2 align="center">🚀 Featured Projects</h2>
+<h2>🚀 Featured Projects</h2>
 
 ### [Boron Programming Language](https://github.com/gamerjamer43/Boron)
 A statically typed, precision-first programming language blending Python, Java, and C++ concepts for expressive control flow, rich data types, and seamless integration with python packages. Dive into syntax, data types, OOP, and more! ([github.com](https://github.com/gamerjamer43/Boron))
@@ -32,7 +32,7 @@ An attempt to learn the basics of ML using a NumPy-based implementation of a two
 
 ---
 
-<h2 align="center">🛠️ Languages (In order of pickup)</h2>
+<h2>🛠️ Languages (In order of pickup)</h2>
 
 Working on eventually expanding this to more big boy languages, hopefully Rust and fluency in C in the near future.
 <p align="center">
@@ -55,7 +55,7 @@ Working on eventually expanding this to more big boy languages, hopefully Rust a
 
 ---
 
-<h2 align="center">💼 Other Skills</h2>
+<h2>💼 Other Skills</h2>
 
 - **Backend & API Development:** I've built many small Flask applications ranging from small to large (featuring sublibraries such as Flask-Login, Flask-SQLAlchemy, Flask-WTF), also designed and implemented RESTful endpoints in Flask-based services for media and file operations. I also implement robust routing, HTTP method usage, and input sanitization to support and secure both video sharing (TestToob) and image hosting (shareximagehost) workflows.
 - **Databases:** Decent knowledge in databasing concepts, using SQLite3 (for raw queries), and SQLAlchemy (for ORM). Built quite a few sites that definitely aren't worthy of being on here, so I've been building decent knowledge of schema design and efficient querying.
@@ -63,15 +63,9 @@ Working on eventually expanding this to more big boy languages, hopefully Rust a
 - **Security & Cryptography:** Built a pretty simple lib for Elliptic Curve Diffie–Hellman key exchange, AES hybrid encryption, digital signatures. Hoping to build a more advanced version of this as it was built in a day.
 - **Learning Mindset:** I started seriously getting into scripting in 2023, and my first project was just a simple login system in Python that stored usernames and passwords to a dict, and then a text file. Fast forward two years, I have picked up many different skills that beforehand I had never heard of. My learning mindset allows me to grow into new languages, frameworks, and libraries with relative ease, and pushes me into sculpting myself into a better developer.
 
-<!--
----
+<h2>✉️ Connect</h2>
 
-## ✉️ Connect
-
-- **Email:** [email here when i make one]
+- **Email:** noah@noahmingolel.li
 - **GitHub:** [github.com/gamerjamer43](https://github.com/gamerjamer43)
 
 Feel free to reach out — I’d love to answer any questions or give coding advice if you need it.
-
----
--->
