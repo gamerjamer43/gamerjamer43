@@ -13,10 +13,13 @@ Hi there! I’m a Class of '28 Software Engineering student at the Rochester Ins
 <h2>⭐ Project Spotlight </h2>
 This is to showcase a project I am currently working on or really like! Take a look!
 
-### [MBOX-16](https://github.com/gamerjamer43/mbox-16)
-A lightweight, educational 16-bit CPU emulator & assembler with a clean, custom instruction set, interactive debugger, and scriptable I/O routines. Explore CPU architecture, step through your own assembly programs, and extend the simulator with ease! ([github.com](github.com/gamerjamer43/mbox-16))
+### [ntest](https://github.com/gamerjamer43/ntest)
+A unit testing framework with a goal of eventually going modular (would like to make my own plugin manager, but may use [pluggy](https://github.com/pytest-dev/pluggy) if i'm allowed), designed to be as simple and integrate features from both unittest and pytest for an easy, expansible bridge between the two. Blazing fast, super lightweight, and (eventually) super expansible.
 
 <h2>🚀 Featured Projects</h2>
+
+### [MBOX-16](https://github.com/gamerjamer43/mbox-16)
+A lightweight, educational 16-bit CPU emulator & assembler with a clean, custom instruction set, interactive debugger, and scriptable I/O routines. Explore CPU architecture, step through your own assembly programs, and extend the simulator with ease! ([github.com](github.com/gamerjamer43/mbox-16))
 
 ### [Boron Programming Language](https://github.com/gamerjamer43/Boron)
 A statically typed, precision-first programming language blending Python, Java, and C++ concepts for expressive control flow, rich data types, and seamless integration with python packages. Dive into syntax, data types, OOP, and more! ([github.com](https://github.com/gamerjamer43/Boron))
