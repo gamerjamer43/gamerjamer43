@@ -11,7 +11,7 @@ Hi there! I’m a Class of '28 Software Engineering student at the Rochester Ins
 ---
 
 <h2>⭐ Project Spotlight </h2>
-This is to showcase a project I am currently working on or really like! Take a look!
+This is to showcase a project I am currently working on or really like! As y'all know, I finally got to University so this will likely be on a slowdown, but don't y'all worry, I'm still contributing 🙏
 
 ### [ntest](https://github.com/gamerjamer43/ntest)
 A unit testing framework with a goal of eventually going modular (would like to make my own plugin manager, but may use [pluggy](https://github.com/pytest-dev/pluggy) if i'm allowed), designed to be as simple and integrate features from both unittest and pytest for an easy, expansible bridge between the two. Blazing fast, super lightweight, and (eventually) super expansible.
