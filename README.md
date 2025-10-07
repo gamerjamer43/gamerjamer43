@@ -4,7 +4,7 @@
 
 ---
 <h2>🎙️ Introduction</h2>
-Hi there! I’m a Class of '28 Software Engineering student at the Rochester Institute of Tech. I like to build cool things in Python, Java, and C++, and I am continually exploring new languages and technologies. My scripting journey started with scratch and roblox -- which I don't really count because it was mostly toying around to learn the syntax and build basic programs -- but I really got into scripting with Python in 2022. Since then, I have been dead set on wanting to be in a computer technical field and began creating as many projects as humanly possible, because the best way to learn is by doing. Feel free to look around my profile, and also take a peep at my repos, there's some cool stuff in there!
+Hi there! I’m a Class of '28 Software Engineering student at the Rochester Institute of Tech. I like to build cool things in Python, Java, C and Rust (hey, notice how I ignored C++ you charlatans! Jokes aside, I like it too), and I am continually exploring new languages and technologies. My scripting journey started with scratch and roblox -- which I don't really count because it was mostly toying around to learn the syntax and build basic programs -- but I really got into scripting with Python in 2022. Since then, I have been dead set on wanting to be in a computer technical field and began creating as many projects as humanly possible, because the best way to learn is by doing. Feel free to look around my profile, and also take a peep at my repos, there's some cool stuff in there!
 
 ([my repositories](https://github.com/gamerjamer43?tab=repositories))
 
@@ -39,8 +39,6 @@ An attempt to learn the basics of ML using a NumPy-based implementation of a two
 
 Working on eventually expanding this to more big boy languages, hopefully Rust and fluency in C in the near future.
 <p align="center">
-  <img src="https://img.shields.io/badge/luau-0f0f0f?style=for-the-badge&logo=robloxstudio&logoColor=00A2FF" alt="roblox studio logo"/>
-  <br/>
   <img src="https://img.shields.io/badge/python-0f0f0f?style=for-the-badge&logo=python" alt="python logo"/>
   <img src="https://img.shields.io/badge/java-0f0f0f?style=for-the-badge&logo=openjdk" alt="java logo"/>
   <br/>
@@ -48,10 +46,13 @@ Working on eventually expanding this to more big boy languages, hopefully Rust a
   <img src="https://img.shields.io/badge/css3-0f0f0f?style=for-the-badge&logo=css&logoColor=663399" alt="css3 logo"/>
   <img src="https://img.shields.io/badge/javascript-0f0f0f?style=for-the-badge&logo=javascript" alt="javascript logo"/>
   <br/>
+  <img src="https://img.shields.io/badge/luau-0f0f0f?style=for-the-badge&logo=robloxstudio&logoColor=00A2FF" alt="roblox studio logo"/>
+  <br/>
   <br/>
   I'm new to:
   <br/>
   <br/>
+  <img src="https://img.shields.io/badge/Rust-0f0f0f?style=for-the-badge&logo=rust" alt="rust logo"/>
   <img src="https://img.shields.io/badge/C++-0f0f0f?style=for-the-badge&logo=cplusplus" alt="c++ logo"/>
   <img src="https://img.shields.io/badge/C-0f0f0f?style=for-the-badge&logo=c" alt="c logo"/>
 </p>
