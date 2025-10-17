@@ -1,6 +1,12 @@
 ![header](https://github.com/user-attachments/assets/efa51fb0-9f7f-4b5a-9f97-fb7835810ce4)
 
-![](https://komarev.com/ghpvc/?username=gamerjamer43&color=0f6cf7) [![](https://img.shields.io/badge/main%20language-python-4287f5.svg)](https://shields.io/)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Editor-Neovim-57A143?logo=neovim" alt="Editor: Neovim" />
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?logo=visual-studio-code" alt="Editor: VS Code" />
+  <img src="https://komarev.com/ghpvc/?username=gamerjamer43&color=0f6cf7" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/main%20languages-python%2C%20rust-4287f5.svg" alt="Main languages: Python, Rust"/>
+</p>
 
 ---
 <h3>🎙️ Introduction</h3>
@@ -46,8 +52,7 @@ An attempt to learn the basics of ML using a NumPy-based implementation of a two
 
 <h3>🛠️ Languages (In order of pickup)</h3>
 
-Working on eventually expanding this to more big boy languages, hopefully Rust and fluency in C in the near future.
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/python-0f0f0f?style=for-the-badge&logo=python" alt="python logo"/>
   <img src="https://img.shields.io/badge/java-0f0f0f?style=for-the-badge&logo=openjdk" alt="java logo"/>
   <br/>
@@ -79,6 +84,8 @@ Working on eventually expanding this to more big boy languages, hopefully Rust a
 <h2>✉️ Connect</h2>
 
 - **Email:** noah@noahmingolel.li
-- **GitHub:** [github.com/gamerjamer43](https://github.com/gamerjamer43)
+- **GitHub:** ...you're here buddy!
 
 Feel free to reach out — I’d love to answer any questions or give coding advice if you need it.
+
+<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gamerjamer43&theme=slateorange" alt="GitHub Profile Summary Card"/></p>
