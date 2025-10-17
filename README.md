@@ -3,29 +3,38 @@
 ![](https://komarev.com/ghpvc/?username=gamerjamer43&color=0f6cf7) [![](https://img.shields.io/badge/main%20language-python-4287f5.svg)](https://shields.io/)
 
 ---
-<h2>🎙️ Introduction</h2>
+<h3>🎙️ Introduction</h3>
 Hi there! I’m a Class of '28 Software Engineering student at the Rochester Institute of Tech. I like to build cool things in Python, Java, C and Rust (hey, notice how I ignored C++ you charlatans! Jokes aside, I like it too), and I am continually exploring new languages and technologies. My scripting journey started with scratch and roblox -- which I don't really count because it was mostly toying around to learn the syntax and build basic programs -- but I really got into scripting with Python in 2022. Since then, I have been dead set on wanting to be in a computer technical field and began creating as many projects as humanly possible, because the best way to learn is by doing. Feel free to look around my profile, and also take a peep at my repos, there's some cool stuff in there!
 
 ([my repositories](https://github.com/gamerjamer43?tab=repositories))
 
 ---
 
-<h2>⭐ Project Spotlight </h2>
-This is to showcase a project I am currently working on or really like! As y'all know, I finally got to University so this will likely be on a slowdown, but don't y'all worry, I'm still contributing 🙏
+<h3>⭐ Project Spotlight </h3>
+
+### [Subwave](https://github.com/gamerjamer43/Subwave)
+My magnum opus, my cream and sugar. Written in Rust using a ready-to-scale [PostgreSQL](https://postgresql.org) DB driver, stupidly intuitive [Hyper](https://hyper.rs) backend, and brute grade password hashing with Argon2id. Designed with lightspeed and bulletproof server to client communication at the forefront of my mind..
+
+### Hertzonic
+I have also made a Noah Certified™ client for this, and it is in the works to use every part of this API, but it will be made public.
+
+<em>...remember when I said it would be a slowdown b/c of school? Yeah I lied...</em>
+
+---
+
+<h3>🚀 Featured Projects</h3>
+
+### [Boron Programming Language](https://github.com/gamerjamer43/Boron)
+A statically typed, precision-first programming language blending Python, Java, and C++ concepts for expressive control flow, rich data types, and seamless integration with python packages. Dive into syntax, data types, OOP, and more! (rewrite in C coming soon...) ([github.com](https://github.com/gamerjamer43/Boron))
 
 ### [ntest](https://github.com/gamerjamer43/ntest)
 A unit testing framework with a goal of eventually going modular (would like to make my own plugin manager, but may use [pluggy](https://github.com/pytest-dev/pluggy) if i'm allowed), designed to be as simple and integrate features from both unittest and pytest for an easy, expansible bridge between the two. Blazing fast, super lightweight, and (eventually) super expansible.
 
-<h2>🚀 Featured Projects</h2>
+### [TestToob](https://github.com/gamerjamer43/testtoob)
+A Flask-powered video sharing platform with all the proper security features, such as escapes, user authentication, video upload/processing via FFmpeg and MIME type verification, as well as some cool engagement features. Build and manage your own video community. ([github.com](https://github.com/gamerjamer43/testtoob))
 
 ### [MBOX-16](https://github.com/gamerjamer43/mbox-16)
 A lightweight, educational 16-bit CPU emulator & assembler with a clean, custom instruction set, interactive debugger, and scriptable I/O routines. Explore CPU architecture, step through your own assembly programs, and extend the simulator with ease! ([github.com](github.com/gamerjamer43/mbox-16))
-
-### [Boron Programming Language](https://github.com/gamerjamer43/Boron)
-A statically typed, precision-first programming language blending Python, Java, and C++ concepts for expressive control flow, rich data types, and seamless integration with python packages. Dive into syntax, data types, OOP, and more! ([github.com](https://github.com/gamerjamer43/Boron))
-
-### [TestToob](https://github.com/gamerjamer43/testtoob)
-A Flask-powered video sharing platform with all the proper security features, such as escapes, user authentication, video upload/processing via FFmpeg and MIME type verification, as well as some cool engagement features. Build and manage your own video community. ([github.com](https://github.com/gamerjamer43/testtoob))
 
 ### [Noah's Image Host](https://github.com/gamerjamer43/shareximagehost)
 A lightweight HTML/Python application for hosting images via ShareX, featuring an upload endpoint for you to upload files to using the provided config, and file service and sharing that embeds into discord. Perfect for quick image sharing workflows, and sharing media with friends. ([github.com](https://github.com/gamerjamer43/shareximagehost))
@@ -35,7 +44,7 @@ An attempt to learn the basics of ML using a NumPy-based implementation of a two
 
 ---
 
-<h2>🛠️ Languages (In order of pickup)</h2>
+<h3>🛠️ Languages (In order of pickup)</h3>
 
 Working on eventually expanding this to more big boy languages, hopefully Rust and fluency in C in the near future.
 <p align="center">
@@ -59,7 +68,7 @@ Working on eventually expanding this to more big boy languages, hopefully Rust a
 
 ---
 
-<h2>💼 Other Skills</h2>
+<h2>💼 Other Skills (in desperate need of an update... I learn more every day)</h2>
 
 - **Backend & API Development:** I've built many small Flask applications ranging from small to large (featuring sublibraries such as Flask-Login, Flask-SQLAlchemy, Flask-WTF), also designed and implemented RESTful endpoints in Flask-based services for media and file operations. I also implement robust routing, HTTP method usage, and input sanitization to support and secure both video sharing (TestToob) and image hosting (shareximagehost) workflows.
 - **Databases:** Decent knowledge in databasing concepts, using SQLite3 (for raw queries), and SQLAlchemy (for ORM). Built quite a few sites that definitely aren't worthy of being on here, so I've been building decent knowledge of schema design and efficient querying.
