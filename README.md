@@ -18,7 +18,10 @@ Hi there! I’m a Class of '28 Software Engineering student at the Rochester Ins
 
 <h3>⭐ Project Spotlight </h3>
 
-### [Subwave](https://github.com/gamerjamer43/Subwave)
+### [Codimate](https://github.com/Zentiph/codimate)
+A cross-language tool for creating educational coding videos. Inspired heavily by [manim](https://github.com/manimCommunity/manim) and [swaptube](https://github.com/2swap/swaptube), the goal is to make something fast, user friendly, and highly robust. Written with my talented friend [Zentiph](https://github.com/Zentiph), make sure to check his stuff out as well!
+
+### [Subwave](https://github.com/gamerjamer43/Subwave) (will be pushing less due to School and other projects)
 My magnum opus, my cream and sugar. Written in Rust using a ready-to-scale [PostgreSQL](https://postgresql.org) DB driver, stupidly intuitive [Hyper](https://hyper.rs) backend, and brute grade password hashing with Argon2id. Designed with lightspeed and bulletproof server to client communication at the forefront of my mind..
 
 ### Hertzonic
