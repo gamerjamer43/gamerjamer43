@@ -10,13 +10,13 @@
 
 ---
 <h3>🎙️ Introduction</h3>
-Hi there! I’m a Class of '28 Software Engineering student at the Rochester Institute of Tech. I like to build cool things in Python, Java, C and Rust (hey, notice how I ignored C++ you charlatans! Jokes aside, I like it too), and I am continually exploring new languages and technologies. My scripting journey started with scratch and roblox -- which I don't really count because it was mostly toying around to learn the syntax and build basic programs -- but I really got into scripting with Python in 2022. Since then, I have been dead set on wanting to be in a computer technical field and began creating as many projects as humanly possible, because the best way to learn is by doing. Feel free to look around my profile, and also take a peep at my repos, there's some cool stuff in there!
+Hi there! I’m a Class of '28 Software Engineering student at the Rochester Institute of Tech. I like to build cool things in Python, Java, C and Rust (hey, notice how I ignored C++ you charlatans! Jokes aside, I like it too), and I am continually exploring new languages and technologies, for example I'm on my functional grindset, learning F# and OCaml. My scripting journey started with scratch and roblox -- which I don't really count because it was mostly toying around to learn the syntax and build basic programs -- but I really got into scripting with Python in 2022. Since then, I have been dead set on wanting to be in a computer technical field and began creating as many projects as humanly possible, because the best way to learn is by doing. Feel free to look around my profile, and also take a peep at my repos, there's some cool stuff in there!
 
 ([my repositories](https://github.com/gamerjamer43?tab=repositories))
 
 ---
 
-<h3>⭐ Project Spotlight </h3>
+<h3>⭐ Project Spotlight (all of these are on hiatus till after finals) </h3>
 
 ### [Codimate](https://github.com/Zentiph/codimate)
 A cross-language tool for creating educational coding videos. Inspired heavily by [manim](https://github.com/manimCommunity/manim) and [swaptube](https://github.com/2swap/swaptube), the goal is to make something fast, user friendly, and highly robust. Written with my talented friend [Zentiph](https://github.com/Zentiph), make sure to check his stuff out as well!
@@ -72,6 +72,8 @@ An attempt to learn the basics of ML using a NumPy-based implementation of a two
   <img src="https://img.shields.io/badge/Rust-0f0f0f?style=for-the-badge&logo=rust" alt="rust logo"/>
   <img src="https://img.shields.io/badge/C++-0f0f0f?style=for-the-badge&logo=cplusplus" alt="c++ logo"/>
   <img src="https://img.shields.io/badge/C-0f0f0f?style=for-the-badge&logo=c" alt="c logo"/>
+  <img src="https://img.shields.io/badge/F%23-0f0f0f?style=for-the-badge&logo=fsharp" alt="f%23 logo"/>
+  <img src="https://img.shields.io/badge/OCaml-0f0f0f?style=for-the-badge&logo=ocaml" alt="ocaml logo"/>
 </p>
 
 ---
