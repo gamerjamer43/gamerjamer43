@@ -16,18 +16,16 @@ Hi there! I’m a Class of '28 Software Engineering student at the Rochester Ins
 
 ---
 
-<h3>⭐ Project Spotlight (all of these are on hiatus till after finals) </h3>
+<h3>⭐ Project Spotlight [ON HIATUS TILL BREAK] </h3>
 
-### [Codimate](https://github.com/Zentiph/codimate)
+### [Codimate](https://github.com/Zentiph/codimate) 
 A cross-language tool for creating educational coding videos. Inspired heavily by [manim](https://github.com/manimCommunity/manim) and [swaptube](https://github.com/2swap/swaptube), the goal is to make something fast, user friendly, and highly robust. Written with my talented friend [Zentiph](https://github.com/Zentiph), make sure to check his stuff out as well!
 
-### [Subwave](https://github.com/gamerjamer43/Subwave) (will be pushing less due to School and other projects)
+### [Subwave](https://github.com/gamerjamer43/Subwave)
 My magnum opus, my cream and sugar. Written in Rust using a ready-to-scale [PostgreSQL](https://postgresql.org) DB driver, stupidly intuitive [Hyper](https://hyper.rs) backend, and brute grade password hashing with Argon2id. Designed with lightspeed and bulletproof server to client communication at the forefront of my mind..
 
-### Hertzonic
-I have also made a Noah Certified™ client for this, and it is in the works to use every part of this API, but it will be made public.
-
-<em>...remember when I said it would be a slowdown b/c of school? Yeah I lied...</em>
+### [Hertzonic](https://github.com/gamerjamer43/Hertzonic)
+I have also made a Noah Certified™ client for this, and it is in the works to use every part of this API, but what I got right now is public. It's really mid and I have a lot of stuff to fix tho.
 
 ---
 
