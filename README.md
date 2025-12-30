@@ -1,6 +1,5 @@
-![header](https://github.com/user-attachments/assets/efa51fb0-9f7f-4b5a-9f97-fb7835810ce4)
-
-
+![header](https://github.com/user-attachments/assets/efa51fb0-9f7f-4b5a-9f97-fb7835810ce4)****
+<p align="center"><img src="/github-metrics.svg" alt="GitHub Profile Summary Card"/></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Editor-Neovim-57A143?logo=neovim" alt="Editor: Neovim" />
   <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?logo=visual-studio-code" alt="Editor: VS Code" />
@@ -87,8 +86,7 @@ An attempt to learn the basics of ML using a NumPy-based implementation of a two
 <h2>✉️ Connect</h2>
 
 - **Email:** noah@noahmingolel.li
+- **LinkedIn:** 
 - **GitHub:** ...you're here buddy!
 
 Feel free to reach out — I’d love to answer any questions or give coding advice if you need it.
-
-<p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gamerjamer43&theme=slateorange" alt="GitHub Profile Summary Card"/></p>
