@@ -1,4 +1,4 @@
-![header](https://github.com/user-attachments/assets/efa51fb0-9f7f-4b5a-9f97-fb7835810ce4)****
+![header](https://github.com/user-attachments/assets/efa51fb0-9f7f-4b5a-9f97-fb7835810ce4)
 <p align="center"><img src="/github-metrics.svg" alt="GitHub Profile Summary Card"/></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Editor-Neovim-57A143?logo=neovim" alt="Editor: Neovim" />
@@ -15,7 +15,11 @@ Hi there! I’m a Class of '29 Software Engineering student at the Rochester Ins
 
 ---
 
-<h3>⭐ Project Spotlight [ON HIATUS TILL BREAK] </h3>
+<h3>⭐ Project Spotlight (what I'm working on) </h3>
+I am NOT the best at consistently working on projects, so I cannot guarantee these will be 100% finished. However, these are some cool things I've started. Feel free to take a look!
+
+### [Stick](https://github.com/gamerjamer43/Stick) and [StickVM](https://github.com/gamerjamer43/StickVM)
+A bytecode compiled language that is VERY early indev. Plans to support "open paradigm" (OOP, Imperative, and Functional styles all should be supported out of the box), and heavy native interfacing, all while being embeddable and blazing fast. Frontend written in Rust with the VM being done in C for a clean balance between maximum development speed and maximum performance. I still have to work on Subwave and all that (but that MAY be my Feb/March) project.
 
 ### [Codimate](https://github.com/Zentiph/codimate) 
 A cross-language tool for creating educational coding videos. Inspired heavily by [manim](https://github.com/manimCommunity/manim) and [swaptube](https://github.com/2swap/swaptube), the goal is to make something fast, user friendly, and highly robust. Written with my talented friend [Zentiph](https://github.com/Zentiph), make sure to check his stuff out as well!
