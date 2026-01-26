@@ -18,7 +18,7 @@ Hi there! I’m a Class of '29 Software Engineering student at the Rochester Ins
 <h3>⭐ Project Spotlight (what I'm working on) </h3>
 I am NOT the best at consistently working on projects, so I cannot guarantee these will be 100% finished. However, these are some cool things I've started. Feel free to take a look!
 
-### [Stick](https://github.com/gamerjamer43/Stick) and [StickVM](https://github.com/gamerjamer43/StickVM)
+### [Stick](https://github.com/gamerjamer43/Stick) (monorepo) see also [StickCompiler](https://github.com/gamerjamer43/StickCompiler) & [StickVM](https://github.com/gamerjamer43/StickVM) (this has the best README)
 A bytecode compiled language that is VERY early indev. Plans to support "open paradigm" (OOP, Imperative, and Functional styles all should be supported out of the box), and heavy native interfacing, all while being embeddable and blazing fast. Frontend written in Rust with the VM being done in C for a clean balance between maximum development speed and maximum performance. I still have to work on Subwave and all that (but that MAY be my Feb/March) project.
 
 ### [Codimate](https://github.com/Zentiph/codimate) 
