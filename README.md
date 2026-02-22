@@ -1,5 +1,4 @@
-![header](https://github.com/user-attachments/assets/efa51fb0-9f7f-4b5a-9f97-fb7835810ce4)
-<p align="center"><img src="/github-metrics.svg" alt="GitHub Profile Summary Card"/></p>
+<p align="center"><img src="https://gamerjamer43.github.io/gamerjamer43/metrics.svg" alt="GitHub Profile Summary Card"/></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Editor-Neovim-57A143?logo=neovim" alt="Editor: Neovim" />
   <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?logo=visual-studio-code" alt="Editor: VS Code" />
