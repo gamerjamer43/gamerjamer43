@@ -1,34 +1,44 @@
-# Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: Metrics
+name: testing new metrics
+
 on:
-  # Schedule updates (once every 3 days)
-  schedule: [{cron: "0 0 */3 * *"}]
-  # Lines below let you run workflow manually and on each commit
+  schedule:
+    - cron: "0 0 */3 * *"
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
+  push:
+    branches: ["master", "main"]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
 jobs:
-  github-metrics:
+  build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: actions/checkout@v4
+
+      - name: request updated metrics
+        uses: lowlighter/metrics@latest
         with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
 
-          # Options
+          # output_action none stops the autocommit bs
+          output_action: none
+          filename: metrics.svg
+
+          # metadata
           user: gamerjamer43
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/New_York
+
+          # plugin options
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
@@ -43,3 +53,28 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_stars: yes
           plugin_stars_limit: 4
+
+      - name: move copy over
+        run: |
+          mkdir -p public
+          cp metrics.svg public/metrics.svg
+
+      - name: setup pages
+        uses: actions/configure-pages@v5
+
+      - name: upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+
+    steps:
+      - name: update on github pages
+        id: deployment
+        uses: actions/deploy-pages@v4
