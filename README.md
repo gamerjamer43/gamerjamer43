@@ -53,35 +53,36 @@ An attempt to learn the basics of ML using a NumPy-based implementation of a two
 
 ---
 
-<h3>🛠️ Languages (In order of pickup)</h3>
+<h3>🛠️ Languages & Tools</h3>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/python-0f0f0f?style=for-the-badge&logo=python" alt="python logo"/>
-  <img src="https://img.shields.io/badge/java-0f0f0f?style=for-the-badge&logo=openjdk" alt="java logo"/>
-  <br/>
-  <img src="https://img.shields.io/badge/html5-0f0f0f?style=for-the-badge&logo=html5" alt="html5 logo"/>
-  <img src="https://img.shields.io/badge/css3-0f0f0f?style=for-the-badge&logo=css&logoColor=663399" alt="css3 logo"/>
-  <img src="https://img.shields.io/badge/javascript-0f0f0f?style=for-the-badge&logo=javascript" alt="javascript logo"/>
-  <br/>
-  <img src="https://img.shields.io/badge/luau-0f0f0f?style=for-the-badge&logo=robloxstudio&logoColor=00A2FF" alt="roblox studio logo"/>
-  <br/>
-  <br/>
-  I'm new to:
-  <br/>
-  <br/>
-  <img src="https://img.shields.io/badge/Rust-0f0f0f?style=for-the-badge&logo=rust" alt="rust logo"/>
-  <img src="https://img.shields.io/badge/C++-0f0f0f?style=for-the-badge&logo=cplusplus" alt="c++ logo"/>
-  <img src="https://img.shields.io/badge/C-0f0f0f?style=for-the-badge&logo=c" alt="c logo"/>
-  <img src="https://img.shields.io/badge/F%23-0f0f0f?style=for-the-badge&logo=fsharp" alt="f%23 logo"/>
-  <img src="https://img.shields.io/badge/OCaml-0f0f0f?style=for-the-badge&logo=ocaml" alt="ocaml logo"/>
+  <h4>General Purpose:</h4>
+  <p>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=rust,c,cpp,java,python,zig,odin,lua,luau,golang,ocaml&titles=true" />&nbsp;&nbsp;<img width="50" height="50" src="https://github.com/user-attachments/assets/be6bcb72-a6a1-4dc6-b732-6d8cc8e92aea" />
+  </p>
+
+  <h4>Web/Mobile Frontend:</h4>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,typescript,svelte,angular,webassembly,html,css,js&titles=true"/>
+
+  <h4>Backend:</h4>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=flask,fastapi,spring&titles=true">
+  
+  <h4>Persistence & DBM:</h4>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,redis,mongodb,sqlite,sqlalchemy&titles=true"/>
+
+  <h4>Unit Testing:</h4>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pytest,junit&titles=true"/>
+
+  <h4>Shells, Editors and General Tools:</h4>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,neovim,lazyvim,bash,terminal,git,windows,wsl&titles=true"/>
 </p>
 
 ---
 
 <h2>💼 Other Skills (in desperate need of an update... I learn more every day)</h2>
 
-- **Backend & API Development:** I've built many small Flask applications ranging from small to large (featuring sublibraries such as Flask-Login, Flask-SQLAlchemy, Flask-WTF), also designed and implemented RESTful endpoints in Flask-based services for media and file operations. I also implement robust routing, HTTP method usage, and input sanitization to support and secure both video sharing (TestToob) and image hosting (shareximagehost) workflows.
-- **Databases:** Decent knowledge in databasing concepts, using SQLite3 (for raw queries), and SQLAlchemy (for ORM). Built quite a few sites that definitely aren't worthy of being on here, so I've been building decent knowledge of schema design and efficient querying.
+- **Backend & API Development:** I've built many small Flask applications ranging from small to large (featuring sublibraries such as Flask-Login, Flask-SQLAlchemy, Flask-WTF), also designed and implemented RESTful endpoints in Flask-based services for media and file operations. I also implement robust routing, HTTP method usage, and input sanitization to support and secure both video sharing (TestToob) and image hosting (shareximagehost) workflows. Lately however, I've pushed myself to work with a more capable language: Rust. With Axum, Actix, and Hyper (when I really need that low level push) in Rust, I have been more writing high durability, fault tolerant backends for 6 months now.
+- **Databases:** Decent knowledge in databasing concepts, using SQLite3 (for raw queries), MongoDB (for document based models) and SQLAlchemy (for ORM). Dabbling in PostgreSQL and Redis for higher load, higher storage backends. Additionally, built quite a few sites that are either posted or definitely not up to my standards to show off, so I've been building decent knowledge of schema design and efficient querying.
 - **Machine Learning Fundamentals:** Messing with NumPy-based neural networks. Take a look at my neural net from scratch, a two-layer neural network entirely in NumPy, dense layers, activation functions, forward/backpropagation, and mini-batch training loops are all handcoded to gain a deeper understanding of low level operations and performance tuning. Planning to create a TinyGPT using a similar approach.
 - **Security & Cryptography:** Built a pretty simple lib for Elliptic Curve Diffie–Hellman key exchange, AES hybrid encryption, digital signatures. Hoping to build a more advanced version of this as it was built in a day.
 - **Learning Mindset:** I started seriously getting into scripting in 2023, and my first project was just a simple login system in Python that stored usernames and passwords to a dict, and then a text file. Fast forward two years, I have picked up many different skills that beforehand I had never heard of. My learning mindset allows me to grow into new languages, frameworks, and libraries with relative ease, and pushes me into sculpting myself into a better developer.
