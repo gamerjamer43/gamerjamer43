@@ -65,7 +65,8 @@ An attempt to learn the basics of ML using a NumPy-based implementation of a two
   <img src="https://go-skill-icons.vercel.app/api/icons?i=react,reactnative,typescript,svelte,angular,webassembly,html,css,js&titles=true"/>
 
   <h4>Backend:</h4>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=flask,fastapi,spring&titles=true">
+  <!-- add axum -->
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=flask,fastapi,spring,tokiors&titles=true">
   
   <h4>Persistence & DBM:</h4>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,redis,mongodb,sqlite,sqlalchemy&titles=true"/>
