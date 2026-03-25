@@ -20,8 +20,12 @@ I am NOT the best at consistently working on projects, so I cannot guarantee the
 ### [Stick](https://github.com/gamerjamer43/Stick) (monorepo) see also [StickCompiler](https://github.com/gamerjamer43/StickCompiler) & [StickVM](https://github.com/gamerjamer43/StickVM) (this has the best README)
 A bytecode compiled language that is VERY early indev. Plans to support "open paradigm" (OOP, Imperative, and Functional styles all should be supported out of the box), and heavy native interfacing, all while being embeddable and blazing fast. Frontend written in Rust with the VM being done in C for a clean balance between maximum development speed and maximum performance. I still have to work on Subwave and all that (but that MAY be my Feb/March) project.
 
+---
+
+<h3>🚀 Featured Projects</h3>
+
 ### [Codimate](https://github.com/Zentiph/codimate) 
-A cross-language tool for creating educational coding videos. Inspired heavily by [manim](https://github.com/manimCommunity/manim) and [swaptube](https://github.com/2swap/swaptube), the goal is to make something fast, user friendly, and highly robust. Written with my talented friend [Zentiph](https://github.com/Zentiph), make sure to check his stuff out as well!
+A cross-language tool for creating educational coding videos. Inspired heavily by [manim](https://github.com/manimCommunity/manim) and [swaptube](https://github.com/2swap/swaptube), the goal is to make something fast, user friendly, and highly robust. Written with my talented friend [Zentiph](https://github.com/Zentiph), make sure to check their stuff out as well!
 
 ### [Subwave](https://github.com/gamerjamer43/Subwave)
 My magnum opus, my cream and sugar. Written in Rust using a ready-to-scale [PostgreSQL](https://postgresql.org) DB driver, stupidly intuitive [Hyper](https://hyper.rs) backend, and brute grade password hashing with Argon2id. Designed with lightspeed and bulletproof server to client communication at the forefront of my mind..
@@ -29,21 +33,8 @@ My magnum opus, my cream and sugar. Written in Rust using a ready-to-scale [Post
 ### [Hertzonic](https://github.com/gamerjamer43/Hertzonic)
 I have also made a Noah Certified™ client for this, and it is in the works to use every part of this API, but what I got right now is public. It's really mid and I have a lot of stuff to fix tho.
 
----
-
-<h3>🚀 Featured Projects</h3>
-
-### [Boron Programming Language](https://github.com/gamerjamer43/Boron)
-A statically typed, precision-first programming language blending Python, Java, and C++ concepts for expressive control flow, rich data types, and seamless integration with python packages. Dive into syntax, data types, OOP, and more! (rewrite in C coming soon...) ([github.com](https://github.com/gamerjamer43/Boron))
-
-### [ntest](https://github.com/gamerjamer43/ntest)
-A unit testing framework with a goal of eventually going modular (would like to make my own plugin manager, but may use [pluggy](https://github.com/pytest-dev/pluggy) if i'm allowed), designed to be as simple and integrate features from both unittest and pytest for an easy, expansible bridge between the two. Blazing fast, super lightweight, and (eventually) super expansible.
-
 ### [TestToob](https://github.com/gamerjamer43/testtoob)
 A Flask-powered video sharing platform with all the proper security features, such as escapes, user authentication, video upload/processing via FFmpeg and MIME type verification, as well as some cool engagement features. Build and manage your own video community. ([github.com](https://github.com/gamerjamer43/testtoob))
-
-### [MBOX-16](https://github.com/gamerjamer43/mbox-16)
-A lightweight, educational 16-bit CPU emulator & assembler with a clean, custom instruction set, interactive debugger, and scriptable I/O routines. Explore CPU architecture, step through your own assembly programs, and extend the simulator with ease! ([github.com](github.com/gamerjamer43/mbox-16))
 
 ### [Noah's Image Host](https://github.com/gamerjamer43/shareximagehost)
 A lightweight HTML/Python application for hosting images via ShareX, featuring an upload endpoint for you to upload files to using the provided config, and file service and sharing that embeds into discord. Perfect for quick image sharing workflows, and sharing media with friends. ([github.com](https://github.com/gamerjamer43/shareximagehost))
@@ -80,13 +71,13 @@ An attempt to learn the basics of ML using a NumPy-based implementation of a two
 
 ---
 
-<h2>💼 Other Skills (in desperate need of an update... I learn more every day)</h2>
+<!-- <h2>💼 Other Skills (in desperate need of an update... I learn more every day)</h2>
 
 - **Backend & API Development:** I've built many small Flask applications ranging from small to large (featuring sublibraries such as Flask-Login, Flask-SQLAlchemy, Flask-WTF), also designed and implemented RESTful endpoints in Flask-based services for media and file operations. I also implement robust routing, HTTP method usage, and input sanitization to support and secure both video sharing (TestToob) and image hosting (shareximagehost) workflows. Lately however, I've pushed myself to work with a more capable language: Rust. With Axum, Actix, and Hyper (when I really need that low level push) in Rust, I have been more writing high durability, fault tolerant backends for 6 months now.
 - **Databases:** Decent knowledge in databasing concepts, using SQLite3 (for raw queries), MongoDB (for document based models) and SQLAlchemy (for ORM). Dabbling in PostgreSQL and Redis for higher load, higher storage backends. Additionally, built quite a few sites that are either posted or definitely not up to my standards to show off, so I've been building decent knowledge of schema design and efficient querying.
 - **Machine Learning Fundamentals:** Messing with NumPy-based neural networks. Take a look at my neural net from scratch, a two-layer neural network entirely in NumPy, dense layers, activation functions, forward/backpropagation, and mini-batch training loops are all handcoded to gain a deeper understanding of low level operations and performance tuning. Planning to create a TinyGPT using a similar approach.
 - **Security & Cryptography:** Built a pretty simple lib for Elliptic Curve Diffie–Hellman key exchange, AES hybrid encryption, digital signatures. Hoping to build a more advanced version of this as it was built in a day.
-- **Learning Mindset:** I started seriously getting into scripting in 2023, and my first project was just a simple login system in Python that stored usernames and passwords to a dict, and then a text file. Fast forward two years, I have picked up many different skills that beforehand I had never heard of. My learning mindset allows me to grow into new languages, frameworks, and libraries with relative ease, and pushes me into sculpting myself into a better developer.
+- **Learning Mindset:** I started seriously getting into scripting in 2023, and my first project was just a simple login system in Python that stored usernames and passwords to a dict, and then a text file. Fast forward two years, I have picked up many different skills that beforehand I had never heard of. My learning mindset allows me to grow into new languages, frameworks, and libraries with relative ease, and pushes me into sculpting myself into a better developer. -->
 
 <h2>✉️ Connect</h2>
 
