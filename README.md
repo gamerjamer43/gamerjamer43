@@ -33,14 +33,17 @@ My magnum opus, my cream and sugar. Written in Rust using a ready-to-scale [Post
 ### [Hertzonic](https://github.com/gamerjamer43/Hertzonic)
 I have also made a Noah Certified™ client for this, and it is in the works to use every part of this API, but what I got right now is public. It's really mid and I have a lot of stuff to fix tho.
 
-### [TestToob](https://github.com/gamerjamer43/testtoob)
-A Flask-powered video sharing platform with all the proper security features, such as escapes, user authentication, video upload/processing via FFmpeg and MIME type verification, as well as some cool engagement features. Build and manage your own video community. ([github.com](https://github.com/gamerjamer43/testtoob))
+### [c-runtime](https://github.com/gamerjamer43/c-runtime)
+A simple runtime system in C, containing polymorphic values, option types, safe casting, array slicing, custom iterables, and much more. Small project I've been writing for fun on the side. Check it out!
 
-### [Noah's Image Host](https://github.com/gamerjamer43/shareximagehost)
+### [TestToob](https://github.com/gamerjamer43/testtoob)
+A Flask-powered video sharing platform with all the proper security features, such as escapes, user authentication, video upload/processing via FFmpeg and MIME type verification, as well as some cool engagement features. Build and manage your own video community.
+
+<!-- ### [Noah's Image Host](https://github.com/gamerjamer43/shareximagehost)
 A lightweight HTML/Python application for hosting images via ShareX, featuring an upload endpoint for you to upload files to using the provided config, and file service and sharing that embeds into discord. Perfect for quick image sharing workflows, and sharing media with friends. ([github.com](https://github.com/gamerjamer43/shareximagehost))
 
 ### [Neural Network From Scratch](https://github.com/gamerjamer43/nnfs)
-An attempt to learn the basics of ML using a NumPy-based implementation of a two-layer neural network for MNIST digit recognition, and covering forward/backpropagation, loss calculation, training, and inference. Learn the internals of deep learning without high-level frameworks. ([github.com](https://github.com/gamerjamer43/nnfs))
+An attempt to learn the basics of ML using a NumPy-based implementation of a two-layer neural network for MNIST digit recognition, and covering forward/backpropagation, loss calculation, training, and inference. Learn the internals of deep learning without high-level frameworks. ([github.com](https://github.com/gamerjamer43/nnfs)) -->
 
 ---
 
